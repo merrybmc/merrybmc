@@ -42,9 +42,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 </div>
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&layout=compact"><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&langs_count=8)](https://github.com/merrybmc/github-readme-stats)
+
 ![bmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
