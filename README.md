@@ -63,8 +63,6 @@
 ![bmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=swift)
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
- 
-![](https://raw.githubusercontent.com/merrybmc/github-stats-transparent/output/generated/languages.svg)
 
 <!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) -->
