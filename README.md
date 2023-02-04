@@ -69,5 +69,5 @@
 
 [![opgc](https://api.opgc.me/githubs/users/merrybmc/tag/?theme=rainbow)](https://opgc.me/#/users/merrybmc)
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) --!>
  
