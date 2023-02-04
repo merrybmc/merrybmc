@@ -67,5 +67,7 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) -->
+[![opgc](https://api.opgc.me/githubs/users/merrybmc/tag/?theme=rainbow)](https://opgc.me/#/users/merrybmc)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
+ 
