@@ -65,7 +65,7 @@
 
 ![bmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=swift)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![opgc](https://api.opgc.me/githubs/users/merrybmc/tag/?theme=rainbow)](https://opgc.me/#/users/merrybmc)
  
