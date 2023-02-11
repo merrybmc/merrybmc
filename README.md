@@ -3,6 +3,7 @@
 안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 끊임없이 도전하는 개발자입니다 : ) 
 
 <h2> 💪Skills / Tools
+ 
 
 <h4>💻 Frontend</h4>
 <div>
@@ -59,8 +60,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
 <br><br>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=white)](https://github.com/tastekim/tastekim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&langs_count=8)](https://github.com/merrybmc/github-readme-stats)
 
 ![bmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=swift)
 [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
@@ -70,4 +72,5 @@
 
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) --!>
- 
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&langs_count=8)](https://github.com/merrybmc/github-readme-stats) -->
+
