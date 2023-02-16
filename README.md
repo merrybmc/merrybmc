@@ -61,7 +61,7 @@
 </div>
 <br><br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=white)](https://github.com/merrybmc/merrybmc) | ![bmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=swift)
+<img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=white&show_icons=true" width="450" height="200" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&exclude_repo=merrybmc.github.io&layout=compact&theme=white" width="450" height="190" />
 :-------------------------:|:-------------------------:
 [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) | [![opgc](https://api.opgc.me/githubs/users/merrybmc/tag/?theme=rainbow)](https://opgc.me/#/users/merrybmc)
 
