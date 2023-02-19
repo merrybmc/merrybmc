@@ -1,4 +1,5 @@
-<h2> CHO BYEONG MIN 😉</h2>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerrybmc&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+<div><h2> CHO BYEONG MIN 😉</h2> </div>
 
 안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 끊임없이 도전하는 개발자입니다 : ) 
 
@@ -74,4 +75,5 @@
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) --!>
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&langs_count=8)](https://github.com/merrybmc/github-readme-stats) -->
+
 
