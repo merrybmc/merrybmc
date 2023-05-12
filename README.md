@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerrybmc&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 <div><h2> CHO BYEONG MIN 😉</h2> </div>
 
-안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 끊임없이 도전하는 개발자입니다 : ) 
+안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 노력합니다 : ) 
 
 <h2> 💪Skills / Tools
  
@@ -28,10 +28,10 @@
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black">
-<br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=&logoColor=white"/>
+<!-- <br/> -->
+<!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=&logoColor=white"/> -->
 </div>
 
 
@@ -39,9 +39,9 @@
 <div>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<!-- <br/> -->
+<!-- <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=Unity&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> -->
 </div>
 
 
