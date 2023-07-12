@@ -12,8 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merrybmc&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/merrybmc/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merrybmc&theme=react-dark)](https://github.com/merrybmc/github-readme-activity-graph)
 
 <!-- <a href="https://opgc.me/#/users/merrybmc" target="_blank"><img src="https://api.opgc.me/githubs/users/merrybmc/tag/?theme=basic" /></a> --> 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) --!>
