@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=white)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=white&show_icons=true" width="450" height="200" />
  :-------------------------:|:-------------------------: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merrybmc&theme=react-dark)](https://github.com/merrybmc/github-readme-activity-graph)
 
