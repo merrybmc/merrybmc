@@ -7,7 +7,7 @@
 
 <div align="center" justify='center'>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc)<img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="450" height="166" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc)<img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="450" height="165" />
  
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy) -->
