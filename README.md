@@ -5,10 +5,10 @@
 
 안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 노력합니다 : ) 
 
-<div align="center">
+<div align="center" justify='center'>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=white)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=white&show_icons=true" width="450" height="200" />
- :-------------------------:|:-------------------------: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc)<img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="450" height="166" />
+ 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
