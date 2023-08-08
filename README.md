@@ -15,13 +15,17 @@
 </p>
 
 ---
+
+
 <div align="center" justify='center'>
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" />
- :-------------------------:|:-------------------------: -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) -->
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" />
+ :-------------------------:|:-------------------------:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" /> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
- :-------------------------:|:-------------------------:|:-------------------------:  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" /> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
+ :-------------------------:|:-------------------------:|:-------------------------:  -->
 
 ---
 
