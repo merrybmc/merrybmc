@@ -10,9 +10,7 @@
   <a target="_blank" href="https://open.kakao.com/o/s3NhH2zf">
     <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
   </a>
-  <a target="_blank" href="https://open.kakao.com/o/s3NhH2zf">
     <img src="https://img.shields.io/badge/chobm1027@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
 </p>
 </p>
 
