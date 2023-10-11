@@ -14,24 +14,32 @@
 </p>
 </p>
 
----
+<!-- --- -->
 
 
 <div align="center" justify='center'>
  
+<img src="https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+<img src="https://raw.githubusercontent.com/merrybmc/github-stats/output/generated/languages.svg" width=51% />
+
+<!--
+---
+-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merrybmc&theme=react-dark)](https://github.com/merrybmc/github-readme-activity-graph)
+
+</div>
+
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) -->
- 
- <img src="https://raw.githubusercontent.com/merrybmc/github-stats/output/generated/languages.svg"/> | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" />
- :-------------------------:|:-------------------------:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" /> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc)
  :-------------------------:|:-------------------------:|:-------------------------:  -->
 
----
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=merrybmc&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merrybmc&theme=react-dark)](https://github.com/merrybmc/github-readme-activity-graph)
+
 
 <!-- <a href="https://opgc.me/#/users/merrybmc" target="_blank"><img src="https://api.opgc.me/githubs/users/merrybmc/tag/?theme=basic" /></a> --> 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrybmc)](https://solved.ac/merrybmc) --!>
