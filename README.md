@@ -3,15 +3,6 @@
 
 <p align="center">
 안전지대 안에서 안주하지 않고 항상 안전지대 밖을 벗어나기 위해 노력합니다 : ) 
- <p align="center">
-  <a target="_blank" href="https://merrybmc.github.io/TIL/" target="_blank">
-    <img src="https://img.shields.io/badge/TIL-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tech blog"/>
-  </a>
-  <a target="_blank" href="https://open.kakao.com/o/s3NhH2zf">
-    <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
-  </a>
-    <img src="https://img.shields.io/badge/chobm1027@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-</p>
 </p>
 
 <!-- --- -->
@@ -54,4 +45,14 @@
 
  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrybmc&hide=html,css&langs_count=10&layout=compact&theme=react)](https://github.com/merrybmc/merrybmc) | <img src="https://github-readme-stats.vercel.app/api?username=merrybmc&theme=react&show_icons=true" width="400" height="165" />
+
+ <p align="center">
+  <a target="_blank" href="https://merrybmc.github.io/TIL/" target="_blank">
+    <img src="https://img.shields.io/badge/TIL-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tech blog"/>
+  </a>
+  <a target="_blank" href="https://open.kakao.com/o/s3NhH2zf">
+    <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
+  </a>
+    <img src="https://img.shields.io/badge/chobm1027@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+</p>
  :-------------------------:|:-------------------------: -->
